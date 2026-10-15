@@ -187,6 +187,6 @@ Real participant feedback, assessor access and the final submission PDF remain p
  - Name: Kavin K
  - Grade: IBCP Y1
  - Name of Mentor: Syed Ali Beema S
- - Registration No: -
+ - Registration No: - 1000527
  - Name of School: Jain Vidyalaya
   
